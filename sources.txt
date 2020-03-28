@@ -5,3 +5,4 @@ https://habr.com/ru/post/347138/
 https://habr.com/ru/post/468991/
 https://habr.com/ru/company/plarium/blog/304408/
 https://www.spriters-resource.com/pc_computer/heroes3
+https://pythonru.com/uroki/biblioteka-pygame-chast-1-vvedenie#toc-2
