@@ -1,0 +1,7 @@
+https://pygame.bitbucket.io/docs/pygame/ref/time.html#pygame.time.Clock
+https://pygame-gui.readthedocs.io/en/latest/quick_start.html
+https://younglinux.info/pygame/rect
+https://habr.com/ru/post/347138/
+https://habr.com/ru/post/468991/
+https://habr.com/ru/company/plarium/blog/304408/
+https://www.spriters-resource.com/pc_computer/heroes3
